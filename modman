@@ -1,0 +1,4 @@
+app/code/local/Twinsen/UnsetLayerFilters/Block/Layer/View.php app/code/local/Twinsen/UnsetLayerFilters/Block/Layer/View.php
+app/code/local/Twinsen/UnsetLayerFilters/etc/config.xml app/code/local/Twinsen/UnsetLayerFilters/etc/config.xml
+app/code/local/Twinsen/UnsetLayerFilters/Helper/Data.php app/code/local/Twinsen/UnsetLayerFilters/Helper/Data.php
+app/etc/modules/Twinsen_UnsetLayerFilters.xml app/etc/modules/Twinsen_UnsetLayerFilters.xml

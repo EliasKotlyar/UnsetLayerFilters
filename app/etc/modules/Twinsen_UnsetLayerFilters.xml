@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Twinsen_UnsetLayerFilters>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Twinsen_UnsetLayerFilters>
+    </modules>
+</config>

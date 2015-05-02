@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Twinsen_UnsetLayerFilters>
+            <version>0.1.0</version>
+        </Twinsen_UnsetLayerFilters>
+    </modules>
+    <global>
+        <blocks>
+            <twinsen_unsetlayerfilters>
+                <class>Twinsen_UnsetLayerFilters_Block</class>
+            </twinsen_unsetlayerfilters>
+            <catalog>
+                <rewrite>
+                    <layer_view>Twinsen_UnsetLayerFilters_Block_Layer_View</layer_view>
+                </rewrite>
+            </catalog>
+        </blocks>
+        <helpers>
+            <twinsen_unsetlayerfilters>
+                <class>Twinsen_UnsetLayerFilters_Helper</class>
+            </twinsen_unsetlayerfilters>
+        </helpers>
+
+
+    </global>
+</config>
